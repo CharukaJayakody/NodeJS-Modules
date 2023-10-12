@@ -14,7 +14,8 @@ This repository is a guide to Node.js cluster programming. It provides an overvi
   Node.js is a popular runtime environment for building scalable and high-performance applications. One of the ways to improve the performance of Node.js applications is by using clusters.
 
   #### 👉 What is Node.js Cluster Programming?
-  Node.js cluster programming is a way to take advantage of multi-core systems by creating child processes that share the same server port. This allows Node.js to handle more requests and    improve the performance of your application.
+  Node.js cluster programming is a way to take advantage of multi-core systems by creating child processes that share the same server port. This allows Node.js to handle more requests and    improve the performance of your 
+ application.
 
-#### 👉 Why Use Node.js Clusters?
-Using Node.js clusters can help you improve the performance of your application by taking advantage of multi-core systems. It can also help you handle more requests and reduce the response time of your application.
+  #### 👉 Why Use Node.js Clusters?
+  Using Node.js clusters can help you improve the performance of your application by taking advantage of multi-core systems. It can also help you handle more requests and reduce the response time of your application.
